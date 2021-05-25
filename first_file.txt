@@ -1,0 +1,70 @@
+
+Nom de l'hìte:                              DESKTOP-MEU52BM
+Nom du systäme d'exploitation:              Microsoft Windows 10 êducation
+Version du systäme:                         10.0.19041 N/A build 19041
+Fabricant du systäme d'exploitation:        Microsoft Corporation
+Configuration du systäme d'exploitation:    Station de travail autonome
+Type de build du systäme d'exploitation:    Multiprocessor Free
+PropriÇtaire enregistrÇ:                    groule@hotmail.com
+Organisation enregistrÇe:                   
+Identificateur de produit:                  00328-00802-59643-AA805
+Date d'installation originale:              15/10/2020, 19:38:00
+Heure de dÇmarrage du systäme:              21/05/2021, 13:21:33
+Fabricant du systäme:                       ASUSTeK COMPUTER INC.
+Modäle du systäme:                          TUF Gaming FX705GM_FX705GM
+Type du systäme:                            x64-based PC
+Processeur(s):                              1 processeur(s) installÇ(s).
+                                            [01]ˇ: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2208 MHz
+Version du BIOS:                            American Megatrends Inc. FX705GM.307, 25/05/2020
+RÇpertoire Windows:                         C:\Windows
+RÇpertoire systäme:                         C:\Windows\system32
+PÇriphÇrique d'amoráage:                    \Device\HarddiskVolume1
+Option rÇgionale du systäme:                fr;Franáais (France)
+Paramätres rÇgionaux d'entrÇe:              fr;Franáais (France)
+Fuseau horaire:                             (UTC+01:00) Bruxelles, Copenhague, Madrid, Paris
+MÇmoire physique totale:                    16ˇ235 Mo
+MÇmoire physique disponible:                8ˇ748 Mo
+MÇmoire virtuelleˇ: taille maximale:        18ˇ667 Mo
+MÇmoire virtuelleˇ: disponible:             6ˇ252 Mo
+MÇmoire virtuelleˇ: en cours d'utilisation: 12ˇ415 Mo
+Emplacements des fichiers d'Çchange:        C:\pagefile.sys
+Domaine:                                    WORKGROUP
+Serveur d'ouverture de session:             \\DESKTOP-MEU52BM
+Correctif(s):                               11 Corrections installÇes.
+                                            [01]: KB4601554
+                                            [02]: KB4561600
+                                            [03]: KB4570334
+                                            [04]: KB4576754
+                                            [05]: KB4577266
+                                            [06]: KB4580325
+                                            [07]: KB4586864
+                                            [08]: KB4593175
+                                            [09]: KB4598481
+                                            [10]: KB5003173
+                                            [11]: KB5003242
+Carte(s) rÇseau:                            5 carte(s) rÇseau installÇe(s).
+                                            [01]: Intel(R) Wireless-AC 9560 160MHz
+                                                  Nom de la connexionˇ: Wi-Fi
+                                                  êtatˇ:                Support dÇconnectÇ
+                                            [02]: Realtek PCIe GbE Family Controller
+                                                  Nom de la connexionˇ: Ethernet
+                                                  DHCP activÇˇ:         Oui
+                                                  Serveur DHCPˇ:        192.168.1.1
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.1.16
+                                                  [02]: fe80::8911:7566:ff38:de3e
+                                                  [03]: 2a01:cb18:3e9:4100:d112:9bcf:104a:6f57
+                                                  [04]: 2a01:cb18:3e9:4100:8911:7566:ff38:de3e
+                                            [03]: Bluetooth Device (Personal Area Network)
+                                                  Nom de la connexionˇ: Connexion rÇseau Bluetooth
+                                                  êtatˇ:                Support dÇconnectÇ
+                                            [04]: TAP-Windows Adapter V9
+                                                  Nom de la connexionˇ: Connexion au rÇseau local
+                                                  êtatˇ:                Support dÇconnectÇ
+                                            [05]: Hyper-V Virtual Ethernet Adapter
+                                                  Nom de la connexionˇ: vEthernet (Default Switch)
+                                                  DHCP activÇˇ:         Non
+                                                  Adresse(s) IP
+                                                  [01]: 172.23.96.1
+                                                  [02]: fe80::8120:d37f:a276:5ece
+Configuration requise pour Hyper-V:         Un hyperviseur a ÇtÇ dÇtectÇ. Les fonctionnalitÇs nÇcessaires Ö Hyper-V ne seront pas affichÇes.
