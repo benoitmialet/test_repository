@@ -4,3 +4,6 @@ Nom de l'h“te:                              DESKTOP-MEU52BM
 modif1 modif2
 
 This line is added for branch1
+
+
+new code for hot_fix branch
